@@ -1,0 +1,13 @@
+export {default as dasboardLayout} from './dashboardLayout';
+export {default as addJob} from './addJob';
+export {default as admin} from './admin';
+export {default as allJobs} from './allJobs';
+export {default as deleteJob} from './deleteJob';
+export {default as editJobs} from './editJobs';
+export {default as error} from './error';
+export {default as homeLayout} from './homeLayout';
+export {default as landing} from './landing';
+export {default as login} from './login';
+export {default as profile} from './profile';
+export {default as register} from './register';
+export {default as stats} from './stats';
